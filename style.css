@@ -47,7 +47,7 @@ body {
 @media (max-width: 460px) {
   .buttons-container {
     width: 40vh;
-    height: 65vh;
+    height: 70vh;
   }
   .display .display-content {
     height: 12vh;
